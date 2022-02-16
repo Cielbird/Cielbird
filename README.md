@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 🔭
-I'm a computer science student who's interested in:
+I'm interested in:
  - computational linguistics,  
  - developing with Julia, 
  - and Unity 3D. 
