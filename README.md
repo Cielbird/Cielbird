@@ -10,3 +10,5 @@ I'm interested in:
 I’m currently working on: 
  - a .NET library of tools for constructing fictional languages
  - a game in Unity 3D
+
+[guilhemaneuc](https://github.com/guilhemaneuc)
