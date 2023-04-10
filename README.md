@@ -1,4 +1,4 @@
-### Hey there
+### About me
 
 I'm interested in:
  - computational linguistics
