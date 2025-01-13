@@ -2,11 +2,11 @@
 
 I'm interested in:
  - computational linguistics
- - developing with .NET
- - Unity 3D
+ - game development
+ - embedded software
 
 I’m currently working on: 
- - a vulcan test project
- - a game in Unity 3D
+ - a linguistic library and tool for conlanging
+ - a game with Godot
 
 [guilhemaneuc](https://github.com/guilhemaneuc)
